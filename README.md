@@ -19,14 +19,6 @@
 ![Laragon](https://img.shields.io/badge/-Laragon-05122A?style=flat&logo=laragon&logoColor=31A21D)
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)
 
-### ⚙️ &nbsp;GitHub Analytics
-<p align="center">
-<a href="https://github.com/Chandra13July">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chandra13July&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chandra13July&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
@@ -35,7 +27,7 @@
     <a href="https://x.com/code13july"><img src="https://img.shields.io/badge/-X-1DA1F2?style=flat&logo=x&logoColor=white"/></a>
     <a href="https://www.tiktok.com/@code13july"><img src="https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white"/></a>
     <a href="https://www.instagram.com/chandra13july"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-    <a href="https://www.youtube.com/@Chandra-w5v"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
+    <a href="https://www.youtube.com/@code13july"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
     <a href="mailto:code13july@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
     <a href="https://wa.me/6287866301974"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/></a>
 </p>
