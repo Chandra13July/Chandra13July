@@ -16,13 +16,12 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: Chandra13July
-          outputs: |
-            github-contribution-grid-snake.svg
-            github-contribution-grid-snake-dark.svg?palette=github-dark
+          outputs: dist/github-contribution-grid-snake.svg
 
       - name: Commit and Push
-        uses: EndBug/add-and-commit@v9
-        with:
-          message: "Generated snake animation"
-          add: "github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg?palette=github-dark"
-          push: true
+        run: |
+          git config --global user.email "github-actions@github.com"
+          git config --global user.name "github-actions"
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Generated snake animation"
+          git push origin main
