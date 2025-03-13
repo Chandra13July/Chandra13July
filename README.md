@@ -1,10 +1,22 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=🚀+Hi,+I'm+Chandra!;Welcome+to+my+GitHub+Profile!;Happy+Coding!+💻" />
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350">
+      </td>
+      <td>
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C9A7&width=600&lines=🚀+Hi,+I'm+Chandra!;Junior+Web+Developer+|+Tech+Enthusiast;Building+Web+%26+Mobile+Apps!+💻;Full-Stack+Development+Explorer;💡+Passionate+about+Problem-Solving;🎯+Improving+Code+Quality+Everyday!;📱+Flutter+for+Mobile,+Laravel+for+Web;💻+Loves+JavaScript,+PHP,+and+Dart;🔥+Enthusiastic+about+UI/UX+Design;🌱+Currently+Learning+DevOps+and+Cloud;🚀+Always+Striving+for+Excellence!" />
 </h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
-</p>
+        <p>
+          🎓 <strong>Junior Web Developer</strong> with a strong interest in <strong>web & mobile development</strong>. <br>
+          🔥 Skilled in <strong>JavaScript, PHP, Laravel, Flutter, and more</strong>. <br>
+          🚀 Always exploring new technologies to enhance my skills.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -24,23 +36,6 @@
     </td>
   </tr>
 </table>
-
----
-
-## 🏆 GitHub Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chandra13July&theme=discord&no-frame=true&margin-w=15&row=1" width="80%" />
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chandra13July&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandra13July&theme=tokyonight" height="180"/>
-</p>
 
 ---
 
