@@ -8,7 +8,7 @@
 ## 📊 GitHub Stats  
 <p align="center">  
    <img src="https://github-readme-stats.vercel.app/api?username=Chandra13July&show_icons=true&theme=tokyonight&hide=prs&cache_seconds=0" width="50%" />  
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandra13July&layout=compact&theme=tokyonight&cache_seconds=0" width="47%" />  
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandra13July&layout=compact&theme=tokyonight&cache_seconds=0" width="33%" />  
 </p>
 
 ### 📈 Contribution Graph  
