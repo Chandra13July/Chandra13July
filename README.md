@@ -28,18 +28,6 @@
 
 ---
 
-## 📌 Pinned Repositories
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-   <a href="https://github.com/Workshop13July/wsiwf1">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Workshop13July&repo=wsiwf1&theme=tokyonight" width="400px" />
-   </a>
-   <a href="https://github.com/Workshop13July/wmaf1">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Workshop13July&repo=wmaf1&theme=tokyonight" width="400px" />
-   </a>
-</div>
-
----
-
 <p align="center">  
    ✨ <strong>Thanks for visiting! Happy coding!</strong> 🚀🔥  
 </p>
