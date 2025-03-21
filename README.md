@@ -1,6 +1,6 @@
 ## 🚀 Tech & Tools  
 <div align="center">  
-   <img src="https://skillicons.dev/icons?i=php,laravel,dart,flutter,vscode,androidstudio,figma" alt="Tech Stack" />  
+   <img src="https://skillicons.dev/icons?i=php,laravel,dart,flutter,vscode,androidstudio" alt="Tech Stack" />  
 </div>  
 
 ---
@@ -8,7 +8,7 @@
 ## 📊 GitHub Stats  
 <p align="center">  
    <img src="https://github-readme-stats.vercel.app/api?username=Chandra13July&show_icons=true&theme=tokyonight&hide=prs&cache_seconds=0" width="50%" />  
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandra13July&layout=compact&theme=tokyonight&cache_seconds=0" width="33%" />  
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandra13July&theme=tokyonight&cache_seconds=0" width="46%" />  
 </p>
 
 ### 📈 Contribution Graph  
