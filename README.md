@@ -28,6 +28,10 @@
 
 ---
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Chandra13July&repo=nama-repo&theme=tokyonight)](https://github.com/Chandra13July/nama-repo)
+
+---
+
 <p align="center">  
    ✨ <strong>Thanks for visiting! Happy coding!</strong> 🚀🔥  
 </p>
